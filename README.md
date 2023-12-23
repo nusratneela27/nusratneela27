@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nusrat Jahan Neela</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img aligh="center" alt="coding" width="400" src"https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
+<img align="right" alt="Coding" width="400" src="https://assets.materialup.com/uploads/0d595e7d-9dd9-447d-96ef-d6a35176a9c6/preview.gif" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nusratneela27&label=Profile%20views&color=0e75b6&style=flat" alt="nusratneela27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratneela27&label=Profile%20views&color=0e75b6&style=flat" alt="nusratneela27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusratneela27" alt="nusratneela27" /></a> </p>
 
