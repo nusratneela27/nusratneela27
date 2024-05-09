@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, NextJs, Mongoose**
 
-- 👨‍💻 All of my projects are available at [https://nusratneela.netlify.app/](https://nusratneela.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nusratneela.netlify.app/](https://nusrat27.netlify.app/)
 
 - 📫 How to reach me **nusratneela27@gmail.com**
 
