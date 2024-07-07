@@ -55,4 +55,4 @@
 
 - 👨‍💻 All of my projects are available at - [My-portfolio](https://nusrat27.netlify.app/)
 
-- 📫 Reach me out via mail - nusratneela@gmail.com
+- 📫 Reach me out via mail - nusratneela27@gmail.com
