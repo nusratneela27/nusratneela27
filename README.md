@@ -49,8 +49,6 @@
 
 ## :eyes: Current overview
 
-- 🌱 I’m learning - **TypeScript, Redux, NextJs, Mongoose**
-
 - 👯 I’m looking - To collaborate on open source projects.
 
 - 👨‍💻 All of my projects are available at - [My-portfolio](https://nusrat27.netlify.app/)
